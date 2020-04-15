@@ -1,4 +1,5 @@
-[
+{
+   [
    {  "id":"1",
       "model":"BMW",
       "logo":"http://clipart-library.com/image_gallery/n1933071.png",
@@ -30,3 +31,4 @@
       "numbOfDoors":"4"
    }
 ]
+}
